@@ -1,0 +1,7 @@
+venv/
+.venv/
+data/creditcard/
+data/creditcard.csv
+models/*.joblib
+__pycache__/
+*.pyc
