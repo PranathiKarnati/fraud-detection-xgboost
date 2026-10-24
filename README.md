@@ -1,5 +1,5 @@
 # 💳 Credit Card Fraud Detection
-
+Live Demo : https://credit-card-fraud-detection-vbe7uv2hkhctdzpxyw76k7.streamlit.app/
 End-to-end machine learning project that detects fraudulent credit card transactions
 in a highly imbalanced dataset (~0.17% fraud). It compares supervised and unsupervised
 models, tunes the decision threshold for business use, explains predictions with SHAP,
